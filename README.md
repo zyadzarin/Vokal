@@ -4,6 +4,7 @@
 -->
 
 # **Vokal.**
+Speaker Diarization Application
 This is the repository for Challenge 2 in [Build with AI](https://www.buildwithai.com) Hackathon 2021.
 
 ## Before starting development
